@@ -1,0 +1,23 @@
+
+
+                                                  dddddddd
+        CCCCCCCCCCCCC                             d::::::d                  DDDDDDDDDDDDD
+     CCC::::::::::::C                             d::::::d                  D::::::::::::DDD
+   CC:::::::::::::::C                             d::::::d                  D:::::::::::::::DD
+  C:::::CCCCCCCC::::C                             d:::::d                   DDD:::::DDDDD:::::D
+ C:::::C       CCCCCC   ooooooooooo       ddddddddd:::::d     eeeeeeeeeeee    D:::::D    D:::::D rrrrr   rrrrrrrrr
+C:::::C               oo:::::::::::oo   dd::::::::::::::d   ee::::::::::::ee  D:::::D     D:::::Dr::::rrr:::::::::r
+C:::::C              o:::::::::::::::o d::::::::::::::::d  e::::::eeeee:::::eeD:::::D     D:::::Dr:::::::::::::::::r
+C:::::C              o:::::ooooo:::::od:::::::ddddd:::::d e::::::e     e:::::eD:::::D     D:::::Drr::::::rrrrr::::::r
+C:::::C              o::::o     o::::od::::::d    d:::::d e:::::::eeeee::::::eD:::::D     D:::::D r:::::r     r:::::r
+C:::::C              o::::o     o::::od:::::d     d:::::d e:::::::::::::::::e D:::::D     D:::::D r:::::r     rrrrrrr
+C:::::C              o::::o     o::::od:::::d     d:::::d e::::::eeeeeeeeeee  D:::::D     D:::::D r:::::r
+ C:::::C       CCCCCCo::::o     o::::od:::::d     d:::::d e:::::::e           D:::::D    D:::::D  r:::::r
+  C:::::CCCCCCCC::::Co:::::ooooo:::::od::::::ddddd::::::dde::::::::e        DDD:::::DDDDD:::::D   r:::::r
+   CC:::::::::::::::Co:::::::::::::::o d:::::::::::::::::d e::::::::eeeeeeeeD:::::::::::::::DD    r:::::r
+     CCC::::::::::::C oo:::::::::::oo   d:::::::::ddd::::d  ee:::::::::::::eD::::::::::::DDD      r:::::r
+        CCCCCCCCCCCCC   ooooooooooo      ddddddddd   ddddd    eeeeeeeeeeeeeeDDDDDDDDDDDDD         rrrrrrr
+
+
+
+
